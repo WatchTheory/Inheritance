@@ -1,0 +1,2 @@
+# Inheritance
+Basic of Inheritance
